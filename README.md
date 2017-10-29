@@ -3,3 +3,5 @@
 2. métodos para los strings
 3. ascii
 4. for, condicionales (if, if else)
+## Diagrama de flujo
+![Prueba de diagrama](loop-diagram.png);

@@ -23,4 +23,7 @@ console.log(testString);
 /* para obtener un caracter a partir de su codigo ascci utilizo el método String.fromCharCode() */
 var codigo = testString.charCodeAt(2);
 console.log(codigo);
-string.fromCharCode(codigo);
+//99
+String.fromCharCode(codigo);
+console.log(String.fromCharCode(codigo));
+//c
