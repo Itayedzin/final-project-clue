@@ -4,4 +4,4 @@
 3. ascii
 4. for, condicionales (if, if else)
 ## Diagrama de flujo
-![Prueba de diagrama](loop-diagram.png);
+![Prueba de diagrama](loop-diagram.png)
